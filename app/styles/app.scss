@@ -1,1 +1,6 @@
-@import "ember-bootstrap/bootstrap";
+$theme-colors: (
+  "nav-bg": rgb(107, 193, 250)
+);
+
+@import "bootstrap";
+@import "header-navigation";
