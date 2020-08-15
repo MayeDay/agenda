@@ -1,4 +1,20 @@
 .header-navigation{
 
-
+    .logo{
+        width: 200px;
+        height: 70px;
+        background-image: url("/assets/images/logo-200x200-cropped.png");
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+    .navbar-dark{
+        .nav-link{
+            color: rgb(0, 248, 12);
+        
+            
+        }
+        .active{
+            color: rgb(63, 153, 78)!important;
+        }
+    }
 }
